@@ -8,6 +8,18 @@
 
 ![Visualization](/visualization.gif)
 
+## Installation
+
+* Clone the repository using git clone https://github.com/MatthewOlaka/coding_challenge.git.
+* Install the required packages using npm install.
+* Run the project using node solution.js.
+
+## Usage
+
+* Open the cities.csv file and replace the sample data with the coordinates of the cities you want to visit.
+* Run the project using node solution.js.
+* The program will output the optimal route and its total distance.
+
 ## Sample Input
 
 ### CSV file containing Cities, States, Latitudes and Longitudes
