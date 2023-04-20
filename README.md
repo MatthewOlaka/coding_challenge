@@ -4,13 +4,13 @@
 
 * The getDistanceFromLatLonInKm helper function used in this project was adapted from the following Stack Overflow post: [Calculate distance between two latitude-longitude points? (Haversine formula)](https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula). 
 
-# Visualization of my approach
+## Visualization of my approach
 
 ![Visualization](/visualization.gif)
 
 ## Sample Input
 
-CSV file containing Cities, States, Latitudes and Longitudes
+### CSV file containing Cities, States, Latitudes and Longitudes
 
 i.e. 
 City,State,Latitude,Longitude
